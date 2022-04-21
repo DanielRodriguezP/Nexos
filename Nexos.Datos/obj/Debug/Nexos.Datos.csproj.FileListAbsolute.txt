@@ -1,0 +1,13 @@
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Nexos.Datos.dll
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Nexos.Datos.pdb
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Nexos.Transversal.dll
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Nexos.Transversal.pdb
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Nexos\Nexos\Nexos.Datos\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Nexos\Nexos\Nexos.Datos\obj\Debug\Nexos.Datos.csproj.AssemblyReference.cache
+C:\Nexos\Nexos\Nexos.Datos\obj\Debug\Nexos.Datos.csproj.CoreCompileInputs.cache
+C:\Nexos\Nexos\Nexos.Datos\obj\Debug\Nexos.Datos.csproj.CopyComplete
+C:\Nexos\Nexos\Nexos.Datos\obj\Debug\Nexos.Datos.dll
+C:\Nexos\Nexos\Nexos.Datos\obj\Debug\Nexos.Datos.pdb

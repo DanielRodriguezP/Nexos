@@ -1,0 +1,15 @@
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Nexos.Negocio.dll
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Nexos.Negocio.pdb
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Nexos.Datos.dll
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Nexos.Transversal.dll
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Nexos.Datos.pdb
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Nexos.Transversal.pdb
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Nexos\Nexos\Nexos.Negocio\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Nexos\Nexos\Nexos.Negocio\obj\Debug\Nexos.Negocio.csproj.AssemblyReference.cache
+C:\Nexos\Nexos\Nexos.Negocio\obj\Debug\Nexos.Negocio.csproj.CoreCompileInputs.cache
+C:\Nexos\Nexos\Nexos.Negocio\obj\Debug\Nexos.Negocio.csproj.CopyComplete
+C:\Nexos\Nexos\Nexos.Negocio\obj\Debug\Nexos.Negocio.dll
+C:\Nexos\Nexos\Nexos.Negocio\obj\Debug\Nexos.Negocio.pdb

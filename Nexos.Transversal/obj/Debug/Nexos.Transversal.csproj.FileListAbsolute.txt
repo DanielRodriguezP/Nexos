@@ -1,0 +1,6 @@
+C:\Nexos\Nexos\Nexos.Transversal\bin\Debug\Nexos.Transversal.dll
+C:\Nexos\Nexos\Nexos.Transversal\bin\Debug\Nexos.Transversal.pdb
+C:\Nexos\Nexos\Nexos.Transversal\obj\Debug\Nexos.Transversal.csproj.CoreCompileInputs.cache
+C:\Nexos\Nexos\Nexos.Transversal\obj\Debug\Nexos.Transversal.dll
+C:\Nexos\Nexos\Nexos.Transversal\obj\Debug\Nexos.Transversal.pdb
+C:\Nexos\Nexos\Nexos.Transversal\obj\Debug\Nexos.Transversal.csproj.AssemblyReference.cache

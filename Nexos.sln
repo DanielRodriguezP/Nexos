@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Datos", "Nexos.Datos\Nexos.Datos.csproj", "{14D2D448-1C21-4B5C-986E-88529132B432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Negocio", "Nexos.Negocio\Nexos.Negocio.csproj", "{44DD4ABB-596D-4740-8333-C563F8BCDE5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Transversal", "Nexos.Transversal\Nexos.Transversal.csproj", "{862279E5-81A3-40BC-9B3D-12029B6C5035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Api", "Nexos.Api\Nexos.Api.csproj", "{0A3D7800-F7BB-4D80-9726-EE01B855093B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexos.Web", "Nexos.Web\Nexos.Web.csproj", "{FB6C0B0B-F67F-441A-9EE7-BF7BCB869180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D2D448-1C21-4B5C-986E-88529132B432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D2D448-1C21-4B5C-986E-88529132B432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D2D448-1C21-4B5C-986E-88529132B432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D2D448-1C21-4B5C-986E-88529132B432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DD4ABB-596D-4740-8333-C563F8BCDE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DD4ABB-596D-4740-8333-C563F8BCDE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DD4ABB-596D-4740-8333-C563F8BCDE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DD4ABB-596D-4740-8333-C563F8BCDE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862279E5-81A3-40BC-9B3D-12029B6C5035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862279E5-81A3-40BC-9B3D-12029B6C5035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862279E5-81A3-40BC-9B3D-12029B6C5035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862279E5-81A3-40BC-9B3D-12029B6C5035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3D7800-F7BB-4D80-9726-EE01B855093B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3D7800-F7BB-4D80-9726-EE01B855093B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3D7800-F7BB-4D80-9726-EE01B855093B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3D7800-F7BB-4D80-9726-EE01B855093B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6C0B0B-F67F-441A-9EE7-BF7BCB869180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6C0B0B-F67F-441A-9EE7-BF7BCB869180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6C0B0B-F67F-441A-9EE7-BF7BCB869180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6C0B0B-F67F-441A-9EE7-BF7BCB869180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {63C70FA8-9BF8-4193-80BE-F10C603D664E}
+	EndGlobalSection
+EndGlobal

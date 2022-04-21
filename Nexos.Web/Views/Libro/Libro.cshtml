@@ -1,0 +1,74 @@
+﻿@model Nexos.Transversal.LibroResponse
+@{
+    ViewBag.Title = "Libro";
+}
+@section Styles{
+    <link href="~/lib/datatables.net-bs4/dataTables.bootstrap4.min.css" rel="stylesheet" />
+}
+
+@Html.Partial("_Mensaje")
+
+
+<div class="page-header text-center">
+    <h3 class="text-center">Libros</h3>
+</div>
+
+<br />
+<br />
+
+<form>
+    <div class="form-group col-md-4">
+        <label for="Titulo">Titulo(*)</label>
+        <input type="text" id="Titulo" class="form-control" value="@Html.DisplayFor(model => model.Titulo)" placeholder="Titulo" autofocus required />
+    </div>
+    <div class="form-group col-md-4">
+        <label for="Ano">Año(*)</label>
+        <input type="number" id="Ano" class="form-control" value="@Html.DisplayFor(model => model.Ano)" placeholder="Año" required />
+    </div>
+    <div class="form-group col-md-4">
+        <label for="cbxGenero">Genero(*)</label>
+        <select id="cbxGenero" class="form-control">
+            <option value="">Seleccione un Genero</option>
+        </select>
+    </div>
+    <div class="row center-block">
+        <div class="form-group col-md-6">
+            <label for="NumPag">Numero Pagina(*)</label>
+            <input type="number" id="NumPag" class="form-control" value="@Html.DisplayFor(model => model.NumeroPagina)" placeholder="Numero Pagina" required />
+        </div>
+        <div class="form-group col-md-6">
+            <label for="cbxAutor">Autor(*)</label>
+            <select id="cbxAutor" class="form-control">
+                <option value="">Seleccione Autor</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <input type="submit" class="btn btn-primary btn-block" id="btnGuardar" name="guardar_libro" value="Guardar" />
+    </div>
+</form>
+<br />
+
+<table id="tabla" class="table table-striped table-bordered" style="width: 100%">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Titulo</th>
+            <th scope="col">Año</th>
+            <th scope="col">Pagina</th>
+            <th scope="col">Autor</th>
+            <th scope="col">Genero</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    <tbody />
+</table>
+
+@section Scripts
+{
+    <script src="~/lib/datatables.net/jquery.dataTables.min.js"></script>
+    <script src="~/lib/datatables.net-bs4/dataTables.bootstrap4.min.js"></script>    
+}
+
+<script src="~/Scripts/Libro/Libro.js"></script>
