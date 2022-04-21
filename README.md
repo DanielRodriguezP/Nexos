@@ -11,4 +11,6 @@ Para configurar el proyecto  damos click derecho en la solución y vamos a la op
 seleccionamos la opcion de inicio multiples y cambiamos Nexos.Api y Nexos.Web por Iniciar
 y de esta manera correría los 2 proyectos al mismo tiempo.
 
+Se encuentra un archivo llamado Nexos.sql el cual contiene los procedimientos almacenados que se utilizaron para el buen funcionamiento del sitio, por favor ejeccutar este script antes de correr la aplicación.
+
 En este repositorio se encuentra un archivo "Documentación" que contiene cada una de las funcionalidades que tiene el sitio web.
